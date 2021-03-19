@@ -62,6 +62,8 @@ In order to use this application you must have:
 
 ⚠️ **If you have any issues during setup, please open an Issue on GitHub and I will do my best to help** ⚠️
 
+**TIP:** Use [Cloudflare](http://cloudflare.com) to proxy your domain through their network to make use of their global CDN/caching system to improve speeds and strain on your system.
+
 ## Copyright Info & Disclaimer
 ShareX-API is a modified version of an API made by [Casper S.](https://github.com/BitesizedLion/) - the repository for his version can be seen [here](https://github.com/BitesizedLion/ShareAPI). <br />
 TrainerGamer nor any of this repositorys contributors are affiliated with [ShareX](https://getsharex.com) or its creator, [Jaex](https://github.com/Jaex).
