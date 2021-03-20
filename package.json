@@ -7,7 +7,7 @@
     "start": "node ./src/index.js"
   },
   "author": "TrainerGamer",
-  "license": "MIT",
+  "license": "mpl-2.0",
   "dependencies": {
     "cors": "^2.8.5",
     "crc": "^3.8.0",
