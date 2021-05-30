@@ -65,7 +65,7 @@ In order to use this application you must have:
 **TIP:** Use [Cloudflare](http://cloudflare.com) to proxy your domain through their network to make use of their global CDN/caching system to improve speeds and bandwidth usage on your API.
 
 ## Copyright Disclaimer
-This ShareX API is an modified version of the API created by [Casper S.](https://github.com/BitesizedLion/) - the repository can be viewed [here](https://github.com/BitesizedLion/ShareAPI). <br />
+This ShareX API is a modified version of the API created by [Casper S.](https://github.com/BitesizedLion/) - the repository can be viewed [here](https://github.com/BitesizedLion/ShareAPI). <br />
 TrainerGamer nor any of this repositorys contributors are affiliated with [ShareX](https://getsharex.com) or its creator, [Jaex](https://github.com/Jaex).
 
 Copyright © 2021 TrainerGamer
