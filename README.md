@@ -4,7 +4,7 @@
   ShareX API
 </h1>
 <h3 align="center">
-  An API made for ShareX that allows you to upload files to an remote server.
+  An API made for ShareX that allows you to upload files to a remote server.
 </h3>
 
 This ShareX API allows you to upload files via [ShareX](https://getsharex.com) to a remote server. The API was made using [Express](https://expressjs.com/) as the backend and [Pug](https://pugjs.org/) as the frontend.
